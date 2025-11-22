@@ -1,4 +1,4 @@
-# Learniverse API
+# Web Tes Caslab API
 
 A robust RESTful API built with Express.js.
 
@@ -21,8 +21,8 @@ You will need the following software installed on your system:
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/mhndkptr/Learniverse-BE.git
-    cd Learniverse-BE
+    git clone https://github.com/mhndkptr/tes-caslab-web-be.git
+    cd tes-caslab-web-be
     ```
 
 2.  **Install dependencies:**
@@ -48,7 +48,7 @@ You will need the following software installed on your system:
     ```
     APP_PORT=3000
     NODE_ENV=development
-    DATABASE_URL=postgresql://userdb:secretpass@localhost:5432/learniverse_db?schema=public
+    DATABASE_URL=postgresql://userdb:secretpass@localhost:5432/tes_caslab_db?schema=public
     JWT_SECRET=your_super_secret_key
     etc...
     ```

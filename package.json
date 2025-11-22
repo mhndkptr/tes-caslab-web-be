@@ -1,8 +1,8 @@
 {
-  "name": "learniverse-be",
+  "name": "tes-caslab-be",
   "type": "module",
   "version": "1.0.0",
-  "description": "Api For Learniverse Application",
+  "description": "Api Application",
   "main": "src/app.js",
   "jest": {
     "transform": {
